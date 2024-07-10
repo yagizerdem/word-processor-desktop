@@ -1,0 +1,16 @@
+C:\Users\yagiz\source\repos\word processor\word processor\bin\Debug\net8.0-windows\word processor.exe
+C:\Users\yagiz\source\repos\word processor\word processor\bin\Debug\net8.0-windows\word processor.deps.json
+C:\Users\yagiz\source\repos\word processor\word processor\bin\Debug\net8.0-windows\word processor.runtimeconfig.json
+C:\Users\yagiz\source\repos\word processor\word processor\bin\Debug\net8.0-windows\word processor.dll
+C:\Users\yagiz\source\repos\word processor\word processor\bin\Debug\net8.0-windows\word processor.pdb
+C:\Users\yagiz\source\repos\word processor\word processor\obj\Debug\net8.0-windows\word_processor.Form1.resources
+C:\Users\yagiz\source\repos\word processor\word processor\obj\Debug\net8.0-windows\word processor.csproj.GenerateResource.cache
+C:\Users\yagiz\source\repos\word processor\word processor\obj\Debug\net8.0-windows\word processor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yagiz\source\repos\word processor\word processor\obj\Debug\net8.0-windows\word processor.AssemblyInfoInputs.cache
+C:\Users\yagiz\source\repos\word processor\word processor\obj\Debug\net8.0-windows\word processor.AssemblyInfo.cs
+C:\Users\yagiz\source\repos\word processor\word processor\obj\Debug\net8.0-windows\word processor.csproj.CoreCompileInputs.cache
+C:\Users\yagiz\source\repos\word processor\word processor\obj\Debug\net8.0-windows\word processor.dll
+C:\Users\yagiz\source\repos\word processor\word processor\obj\Debug\net8.0-windows\refint\word processor.dll
+C:\Users\yagiz\source\repos\word processor\word processor\obj\Debug\net8.0-windows\word processor.pdb
+C:\Users\yagiz\source\repos\word processor\word processor\obj\Debug\net8.0-windows\word processor.genruntimeconfig.cache
+C:\Users\yagiz\source\repos\word processor\word processor\obj\Debug\net8.0-windows\ref\word processor.dll
